@@ -445,6 +445,7 @@ Intro
 	text-transform: uppercase;
 	letter-spacing: 13px;
 	font-weight: normal;
+	margin-top: -40px;
 }
 
 #intro {
